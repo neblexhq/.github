@@ -15,6 +15,7 @@ Flows and AI agents run in the Neblex cloud or on an on-premises runtime inside 
 ### Repositories
 
 - [neblex-mcp](https://github.com/neblexhq/neblex-mcp): remote MCP server for Claude Code, Cursor, Codex, VS Code and other MCP clients. Listed in the official MCP Registry as `io.github.neblexhq/neblex`.
+- [neblex-cursor-plugin](https://github.com/neblexhq/neblex-cursor-plugin): Cursor plugin that sets up the Neblex MCP server in Cursor.
 
 ### Links
 
