@@ -6,6 +6,7 @@ Flows and AI agents run in the Neblex cloud or on an on-premises runtime inside 
 
 ### What it does
 
+- [300+ connectors](https://www.neblex.com/integration-fabric/docs/connectors) for business apps, ERPs, databases, AI models, message brokers and B2B protocols
 - Workflow automation and data integration between SaaS apps, databases, file stores and message brokers
 - Data quality inside the flow, before a record lands: validation checks, fuzzy deduplication (Jaro-Winkler, edit distance, Soundex), normalization, lookup enrichment and human review with SLAs
 - AI agents with tools that act on real systems, with knowledge and memory kept in a vector store you own
